@@ -35,4 +35,5 @@ Para llevar a cabo este proyecto de manera organizada, cada integrante cumple fu
 * `TurnoSalud_v1.1.docx` — Versión actualizada que incluye el detalle completo de tareas, prevención de riesgos y control de cambios del proyecto.
 * `TurnoSalud_v1.2.docx` — Versión actualizada con el detalle de los requisitos del sistema y su validación formal con la clínica.
 * `TurnoSalud_v1.3.docx` — Versión actualizada con el registro, análisis de impacto y aprobación formal de la solicitud de cambio del cliente.
+* `TurnoSalud_v1.4.docx` — Versión final completa del taller, incluyendo la medición del indicador de retrabajo, la entrega del producto y el acta de cierre del proyecto.
 * `README.md` — Presentación general del proyecto y responsabilidades del equipo.
