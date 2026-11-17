@@ -18,6 +18,8 @@ El trabajo sigue las buenas prácticas de organización de proyectos para peque�
 
 Para llevar a cabo este proyecto de manera organizada, cada integrante cumple funciones específicas:
 
+* **Mateo García:** Programador (PR — Backend y gestión de base de datos) y miembro del Equipo de Trabajo (ET).
+
 * **JOSÉ IGNACIO LEITON HARO — Coordinador General y Responsable Técnico**  
   Se encarga de organizar los tiempos, administrar el presupuesto, supervisar el avance semanal del equipo y tomar las decisiones técnicas principales para asegurar que el proyecto se entregue a tiempo y sin contratiempos.
 
